@@ -70,7 +70,7 @@ edusity/
 <br>
 🌐 Live Demo
 <br>
-[Visit Website](https://remarkable-begonia-c55868.netlify.app/)
+Visit Website: https://remarkable-begonia-c55868.netlify.app/
 
 🛡 License
 This project is licensed under the MIT License – feel free to use and modify it.
