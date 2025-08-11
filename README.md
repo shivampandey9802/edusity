@@ -8,6 +8,7 @@ Designed for speed, simplicity, and smooth scrolling navigation, perfect for lan
 - **React 19** – UI library
 - **Vite** – Lightning-fast build tool
 - **React Scroll** – Smooth scrolling between sections
+- **Web3Forms** – Backendless contact form handling
 - **ESLint** – Code linting and best practices
 
 ## 📦 Installation
@@ -16,44 +17,45 @@ Designed for speed, simplicity, and smooth scrolling navigation, perfect for lan
    ```bash
    git clone https://github.com/shivampandey9802/edusity.git
    cd edusity
+   ```
 
-Install dependencies
+2. **Install dependencies**
 
-bash
-Copy
-Edit
+```bash
 npm install
-Run in development mode
+```
+3. **Run in development mode**
 
-bash
-Copy
-Edit
+
+```bash
 npm run dev
-Build for production
+```
+4. **Build for production**
 
-bash
-Copy
-Edit
+```bash
 npm run build
-Preview production build
+```
 
-bash
-Copy
-Edit
+5. **Preview production build**
+
+```bash
 npm run preview
+```
+<br>
+
 ✨ Features
+<br>
+
 🎯 Fast development with Vite
-
+<br>
 🔄 Smooth section scrolling using react-scroll
-
+<br>
 📱 Responsive design for all devices
-
+<br>
 🛠 Linting with ESLint for clean, maintainable code
+## 📂 Project Structure
 
-📂 Project Structure
-csharp
-Copy
-Edit
+```plaintext
 edusity/
 │── public/        # Static assets
 │── src/           # Application source code
@@ -63,8 +65,12 @@ edusity/
 │   └── main.jsx   # Entry point
 │── package.json   # Project metadata & scripts
 │── vite.config.js # Vite configuration
+```
+<br>
+<br>
 🌐 Live Demo
-Visit Website
+<br>
+[Visit Website](https://remarkable-begonia-c55868.netlify.app/)
 
 🛡 License
 This project is licensed under the MIT License – feel free to use and modify it.
